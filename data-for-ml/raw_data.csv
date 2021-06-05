@@ -1,0 +1,11 @@
+Country,Age,Salary,Size,Purchased
+France,44,72000,M,No
+Spain,27,48000,S,Yes
+Germany,30,54000,M,No
+Spain,38,61000,L,No
+Germany,40,,XL,Yes
+France,35,58000,XXL,Yes
+Spain,,52000,M,No
+France,48,79000,M,Yes
+Germany,50,83000,L,No
+France,37,67000,S,Yes
